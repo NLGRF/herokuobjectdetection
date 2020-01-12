@@ -1,5 +1,5 @@
 # herokuobjectdetection
 
 - Live Demo
-https://objectdetectionflaslk.herokuapp.com/
+https://objectdetectionflask.herokuapp.com/
 
